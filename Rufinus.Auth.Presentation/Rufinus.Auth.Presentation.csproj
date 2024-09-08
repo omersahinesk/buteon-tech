@@ -19,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Rufinus.Auth.Application\Rufinus.Auth.Application.csproj" />
+      <ProjectReference Include="..\Rufinus.Auth.EfCore.Infrastructure\Rufinus.Auth.EfCore.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
